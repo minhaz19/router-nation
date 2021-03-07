@@ -1,0 +1,12 @@
+.country-container{
+    border: 1px solid purple;
+    border-radius: 10px;
+    margin: 20px;
+    padding:20px;
+    text-align:center;
+    height: 350px;
+    width: 250px;
+}
+.country-container img{
+    width: 100%;
+}
